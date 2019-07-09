@@ -1,10 +1,7 @@
-
-console.log(nomeDeVolta());
-
 function nomeDeVolta () {
     
     var nome = "Marvin";
     console.log(nome);
     
-    return "O andróide paranóide";
+    return "O andrÃ³ide paranÃ³ide";
 }
