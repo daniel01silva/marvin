@@ -1,5 +1,5 @@
-function nomes (name1, name2) {
+function nomes (nome1, nome2) {
     
-    return name1 + " e " + name2;
+    return nome1 + " e " + nome2;
     
 }
